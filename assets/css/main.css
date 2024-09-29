@@ -32,11 +32,6 @@ body {
 	line-height: 1;
 }
 
- .profile-image {
-            width: 200px; /* Size of the image */
-            height: 200px; /* Size of the image */
-            border-radius: 0; /* Square shape */
-        }
 
 ol, ul {
 	list-style: none;
